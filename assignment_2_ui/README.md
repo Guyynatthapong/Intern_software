@@ -19,7 +19,7 @@ The server will start on http://localhost:3000
 ### Design Decisions
 - Next.js Framework
 - tailwind
-- Lucide Icons
+- Lucide Icons :
 modern icon set for UI
 
 ### What I'd Improve
