@@ -3,7 +3,7 @@
 ### Installation
 1. Clone the repository and navigate to the folder:
 ```bash
-   $ cd assignment_1_api
+   $ cd assignment_1_API
 ``` 
 2. Install dependencies:
 ```bash
