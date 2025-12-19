@@ -64,6 +64,6 @@ Method | Endpoint | Description | Query Params / Body |
 | `POST` | `/` | Create a new transaction | **Body**: `{ description,type, category, amount, ... }` |
 | `GET` | `/` | Get all transactions It depends on the conditions such as type , category | **Query**: `?type=expense&category=food` |  
 | `GET` | `/:id` | Get a specific or one transaction | - |
-| `PATCH` | `/:id` | Update transaction details | **Body**: `{ ...fields to update }` |
+| `PUT` | `/:id` | Update transaction details | **Body**: `{ ...fields to update }` such as ({"amount" : 150})|
 | `DELETE` | `/:id` | Soft delete a transaction | - |
 | `PATCH` | `/:id/restore` | Restore a deleted transaction | - |
