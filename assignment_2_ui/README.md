@@ -30,7 +30,7 @@ If I had more time, I would:
 
 ### Time Spent
 I used 1 hour for this assignment
--Project setup & configuration: ~10 minutes
--Component structure & layout: ~30 minutes
--Styling with Tailwind CSS: ~20 minutes
+- Project setup & configuration: ~10 minutes
+- Component structure & layout: ~30 minutes
+- Styling with Tailwind CSS: ~20 minutes
 
