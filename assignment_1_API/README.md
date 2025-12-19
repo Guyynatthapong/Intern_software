@@ -41,7 +41,7 @@ Design For Validation a empty field such as a CreateTransactions or UpdateTransa
 
 
 
-### What I'd Improve (With More Time)
+### What I'd Improve
 If I had more time, I would:
 - Add authentication & authorization For identification to be able to track that person's transactions.
 - Write more unit and e2e tests.
