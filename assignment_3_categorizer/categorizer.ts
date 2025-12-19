@@ -33,7 +33,7 @@ b
 
         Rules:
         - Respond ONLY with the category name (String).
-        - No explanatio
+        - No explanation
         - if Gifts or donations or expenses that don't fit above must be categorized as other
         - If the description is empty or nonsen or random words (ex. "daklsdj", "test", "hello")  must be categorize as invalid
 
