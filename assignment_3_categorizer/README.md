@@ -3,7 +3,7 @@
 ### Installation
 1. Clone the repository and navigate to the folder:
 ```bash
-   $ cd assignment_2_ui
+   $ cd assignment_3_categorizer
 ``` 
 2. Install dependencies:
 ```bash
