@@ -23,7 +23,7 @@ const SummaryCard = ({totalincome, totalexpense, balance, currentFilter, onFilte
                     : 'border-b border-gray-100'
                 }`}
             >
-                <p className="text-gray-500 font-bold text-[24] mb-2">ยอดเงินคงเหลือ (Balance)</p>
+                <p className="text-gray-500 text-center font-bold text-2xl mb-2">ยอดเงินคงเหลือ </p>
                 <h1 className={`flex gap-3 text-center items-center justify-center text-3xl font-bold ${balance < 0 ? 'text-[#D64286]' : 'text-green-600'}`}>
                     <Banknote size={36} /> {balance.toLocaleString()}
                 </h1>
